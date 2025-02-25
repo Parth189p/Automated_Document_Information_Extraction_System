@@ -44,7 +44,7 @@ graph LR
   - Azure Functions for serverless operations
 
 - **Core Technologies**
-  - Python 3.8+
+  - Python 3.9+
   - PyTesseract for OCR
   - ColBERT for document understanding
   - Azure OpenAI API
